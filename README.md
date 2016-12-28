@@ -1,2 +1,2 @@
-# design-pattern-java
+# java-design-pattern
 Design pattern java implements
